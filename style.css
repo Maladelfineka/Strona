@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@500&display=swap');
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 1440px;
+    height: 865px;
+}
+
+
+
+.Naglowek {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 789px;
+
+}
+
+h2 {
+    color: #234361;
+    text-align: center;
+    font-family: Nunito;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 40px;
+
+    margin-top: 380px;
+}
+
+.Blue {
+    color: #1070CA;
+}
+
+
+.Naglowek2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 830px;
+}
+
+h3 {
+    color: #425A70;
+    font-family: Nunito;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 40px;
+
+
+}
+
+.LightBlue {
+    color: #4DA8FF;
+    font-weight: 700;
+
+}
+
+
+
+
+.Przycisk {
+    display: flex;
+    padding: 4px 24px;
+    align-items: center;
+    border-radius: 64px;
+    border-color: white;
+    background-color: #4DA8FF;
+
+    font-family: Nunito;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 40px;
+    color: #FFF;
+
+    margin-top: 68px;
+}
+
+.Main {
+    display: flex;
+    align-items: flex-end;
+}
+
+.Obraz {
+    border: 24px solid #F6F9FD;
+    border-radius: 50%;
+    height: 178px;
+    width: 178px;
+
+}
+
+.NaglowekObraz {
+    margin-top: 72px;
+}
