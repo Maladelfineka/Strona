@@ -133,6 +133,8 @@ h3 {
     align-items: center;
     flex-direction: column;
 
+    margin-bottom: 176px;
+
 
 }
 
@@ -170,4 +172,64 @@ h3 {
 
 .Znaczki2 {
     list-style-image: url("./Bullet.svg");
+}
+
+.Konatakt {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #DBEAF7;
+}
+
+.ContactMe {
+    margin-top: 80px;
+    font-size: 48px;
+}
+
+.contactopis {
+    font-family: Nunito;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 40px;
+    color: #425A70;
+}
+
+.Wszysto {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 128px;
+    margin-bottom: 128px;
+}
+
+.ObrazkiToContact {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 110px;
+}
+
+.button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 110px;
+}
+
+
+.Przycisk1 {
+    display: flex;
+    padding: 4px 24px;
+    align-items: center;
+    border-radius: 64px;
+    background-color: #4DA8FF;
+
+
+    color: #FFF;
+    font-family: Nunito;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 40px;
 }

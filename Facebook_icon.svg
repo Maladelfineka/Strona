@@ -1,0 +1,19 @@
+<svg width="65" height="52" viewBox="0 0 65 52" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Facebook_icon">
+<g id="EclipseBg" filter="url(#filter0_d_5_2121)">
+<circle cx="32.5" cy="28" r="24" fill="white"/>
+</g>
+<path id="FB" d="M44.5 16H20.5V40H30.625V32.0312H27.5781V28.5625H30.625V25.9188C30.625 22.9117 32.4156 21.25 35.1578 21.25C36.4703 21.25 37.8438 21.4844 37.8438 21.4844V24.4375H36.3297C34.8391 24.4375 34.375 25.3633 34.375 26.3125V28.5625H37.7031L37.1711 32.0312H34.375V40H44.5V16Z" fill="#4DA8FF"/>
+</g>
+<defs>
+<filter id="filter0_d_5_2121" x="0.5" y="0" width="64" height="64" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="4"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.0611066 0 0 0 0 0.437703 0 0 0 0 0.793181 0 0 0 0.15 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_5_2121"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_5_2121" result="shape"/>
+</filter>
+</defs>
+</svg>
