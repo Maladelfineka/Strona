@@ -248,14 +248,16 @@ h3 {
         margin: 0;
         padding: 0;
         width: 100%;
+        min-width: 405px;
 
     }
 
     .Welcome {
-        display: none;
+        display: flex;
     }
 
     .MySkils {
+        width: 100vw;
         width: 100%;
     }
 
@@ -289,8 +291,7 @@ h3 {
 
     }
 
-    .ContactMe {
-        
+    .Konatakt {
+        width: 500px;
     }
-
 }
