@@ -272,9 +272,7 @@ h3 {
         flex-direction: column;
     }
 
-    .button {
 
-    }
 
     .ObrazkiToContact {
 
@@ -293,4 +291,24 @@ h3 {
 
     }
 
+
+    .Main {
+
+
+        width: 100vw;
+        width: 100%;
+    }
+
+    .Kalmra {
+        display: none;
+    }
+    .Kalmra2 {
+        display: none;
+    }
+
+    .Naglowek {
+        display: flex;
+        flex-direction: column;
+    }
+    
 }
