@@ -205,20 +205,21 @@ h3 {
     justify-content: center;
     margin-top: 128px;
     margin-bottom: 128px;
+    gap: 65px;
 }
 
 .ObrazkiToContact {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-right: 110px;
+
 }
 
 .button {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-left: 110px;
+
 }
 
 
@@ -272,12 +273,13 @@ h3 {
     }
 
     .button {
-        margin-right: 50px;
+
     }
 
     .ObrazkiToContact {
-        margin-left: 150px;
+
         margin-bottom: 64px;
+
     }
 
     .contactopis {
@@ -291,7 +293,4 @@ h3 {
 
     }
 
-    .Konatakt {
-        width: 500px;
-    }
 }
